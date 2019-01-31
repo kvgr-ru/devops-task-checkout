@@ -1,0 +1,8 @@
+#Пятничный деплой
+
+Forwarded from DevOps Deflope News
+
+Интересные ссылки с гугл доков 
+Kubernetes Learning Resources — подборка ссылок на ресурсы для изучения Kubernetes http://amp.gs/V2NQ
+
+Kubernetes Distributions & Platforms — таблица сравнения почти сотни вендоров, поставляющих Kubernetes http://amp.gs/V2Nb
